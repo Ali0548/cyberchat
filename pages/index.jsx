@@ -243,10 +243,10 @@ export default function Page() {
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>CuberCell</title>
+        <title>CyberCell</title>
         <meta name="description" content="A basic clone of ChatGPT" />
         <meta name="og:title" content="CloneGPT" />
-        <meta name="og:url" content="https://clone-gpt.vercel.app/" />
+      
       </Head>
       <Link className="rounded-md bg-gray-800 py-2 px-4 font-medium text-white transition duration-300 ease-in-out hover:bg-blue-500" style={{ backgroundColor: "#1F2937" }} _target = "blank" href="https://chat.merlinwms.co.uk/">
         Goto Home
